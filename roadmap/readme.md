@@ -15,9 +15,9 @@ There will be files associated with the overarching Roadmap alongside more detai
 2. Release a beta Python version of a microservice Software Development Kit (SDK)
 3. Visual, virtual representation of the library concept
 #### Communication Direction
-1. Priority
-2. Priority
-3. Priority
+1.	Work with rebels to define and publicise a point of view on the role of the metaverse for driving greater social inclusivity. Consider setting up a working group
+2.	Work with the rebels to agree on a plan (and funding) for a joint social video highlighting the role of technology in helping Peter and others 
+3.	Work with the rebels on a joint Q&A and set of talking points to explain the tech goals/roles and approach in helping Peter and others
 #### Technical Direction
 1. Defining IoT communications protocols
 2. Defining the physical technology design and requirements for the wheelchair and Highcliff
